@@ -1,16 +1,9 @@
-# Muhammad Kashif Portfolio
+# Muhammad Ibrahim Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and professional journey. It's designed to be a responsive, modern, and SEO-optimized single-page website.
 
-**Check out my live portfolio here:** [Muhammad Kashif Portfolio](https://milestone2-self-portfolio.vercel.app/) 
 
-**View the source code on GitHub:** [Muhammad Kashif Portfolio GitHub Repository](https://github.com/Muhammadkashif5/milestone2-self-portfolio.git)
 
-## Table of Contents
-
-- [About](#about)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
 
 ## About
 
@@ -22,7 +15,7 @@ This portfolio is a representation of my work and professional journey. It inclu
 - **Projects**: A showcase of the projects I've worked on.
 - **Contact**: How to reach me.
 
-I built this portfolio using **React**, **Next.js**, and **Tailwind CSS**, with a focus on performance and modern web standards.
+I built this portfolio using **React**, **Next.js**, and **Custome CSS**, with a focus on performance and modern web standards.
 
 ## Technologies Used
 
